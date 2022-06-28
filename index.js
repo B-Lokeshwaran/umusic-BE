@@ -29,7 +29,7 @@ app.use('/providers',providers)
 
 const port = process.env.PORT || 9001
 app.listen(port,function(){
-    console.log("BE Started at port 9002")
+    console.log("BE Started at port 9001")
         
     
 });
